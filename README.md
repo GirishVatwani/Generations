@@ -1,6 +1,9 @@
 # 🧬 CS50 Inheritance: Simulating Genetic Traits
 
-<iframe src="https://embed.ted.com/talks/david_york_a_new_way_to_think_about_inheritance" width="700" height="400" frameborder="0" allowfullscreen></iframe>
+<p align="center">
+  <video alt="TED Ed video" width="700">
+  <source src="https://www.youtube.com/watch?v=xfZhb6lmxjk" type="video/mp4">
+</p>
 
 This project, part of Harvard's [CS50x](https://cs50.harvard.edu/x/) curriculum, explores how genetic traits are passed from one generation to the next using the C programming language. You'll simulate a family tree in which each person has two "blood type" alleles (A, B, or O), inherited from their parents, and visualize how inheritance works across generations.
 
