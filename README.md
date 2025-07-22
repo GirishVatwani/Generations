@@ -61,7 +61,7 @@ Grandparent (Generation 2): blood type AA
 ## 🎥 Related Video: Inheritance Explained by Ted-Ed
 
 Discover the broader context behind inheritance—genetic and otherwise—in this excellent TedEd talk:  
-**[A new way to think about inheritance | David York | TED](https://embed.ted.com/talks/david_york_a_new_way_to_think_about_inheritance)**
+**[A new way to think about inheritance | David York | TED]([https://embed.ted.com/talks/david_york_a_new_way_to_think_about_inheritanc](https://www.youtube.com/watch?v=xfZhb6lmxjk&embeds_referring_euri=https%3A%2F%2Fcs50.harvard.edu%2F&source_ve_path=Mjg2NjY)e)**
 
 ---
 
