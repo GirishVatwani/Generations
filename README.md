@@ -1,4 +1,5 @@
-[![Watch the video]((https://i.ytimg.com/vi/xfZhb6lmxjk/hqdefault.jpg))]((https://www.youtube.com/watch?v=xfZhb6lmxjk))
+[![Why do blood types matter? - TED-Ed](https://img.youtube.com/vi/xfZhb6lmxjk/0.jpg)](https://www.youtube.com/watch?v=xfZhb6lmxjk)
+
 
 
 # 🧬 CS50 Inheritance: Simulating Genetic Traits
